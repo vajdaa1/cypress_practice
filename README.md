@@ -1,1 +1,1 @@
-# cypress_practice
+# cypress_vjezba
