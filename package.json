@@ -1,0 +1,30 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vajdaa1/cypress_practice.git"
+  },
+  "author": "Ana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vajdaa1/cypress_practice/issues"
+  },
+  "homepage": "https://github.com/vajdaa1/cypress_practice#readme",
+  "dependencies": {
+    "cypress": "^12.9.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "plugin:cypress/recommended"
+    ]
+  },
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3"
+  }
+}
